@@ -1,0 +1,16 @@
+# ignore .env files
+.env
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# hourly data
+hourly_energy_data.csv
+
